@@ -15,11 +15,10 @@ Prácticas motores compatibles version MATLAB 2016 y superiores
     * Descarga el ST Link que está en: https://github.com/ual-arm/mars-crimson/tree/master/firmware/Programming%20utility
     * Conectar la Discovery por el USB de programación (es el conector mini USB, el conector micro USB solo es para comunicación y transferencia de datos). 
     * Abrir el ST Link y cargarle el project.hex.
-    * Conectar con la Discovery (TargetConnect)
+    * Conectar con la Discovery (Target -> Connect)
     * Transferirle el programa ya cargado mediante el archivo project.hex (Program & Verify)
     * OPCIONAL. Chequear que se ha grabado correctamente (Compare device memory with…)
-    * Actualizar el firmware de la placa a la versión V2J27M15 (ST Link  Firmware update) Por defecto la versión del firmware es la V2J25M14 que no permite la comunicación de datos por el puerto micro USB.
-![image](https://user-images.githubusercontent.com/28442296/121183500-6ca57680-c864-11eb-8c7c-39250bcde905.png)
+    * Actualizar el firmware de la placa a la versión V2J27M15 (ST Link -> Firmware update) Por defecto la versión del firmware es la V2J25M14 que no permite la comunicación de datos por el puerto micro USB.
 
   
   * Frames: uC -> PC
