@@ -1,5 +1,5 @@
 ﻿# mars-crimson
-Prácticas motores compatibles MATLAB 2016
+Prácticas motores compatibles version MATLAB 2016 y superiores
 
 # STM32: 
 
@@ -8,6 +8,7 @@ Prácticas motores compatibles MATLAB 2016
     * Programar con el .exe que hay en el directorio "Programming Utility"
     * Código fuente: Abrir con Keil el proyecto `firmware/24-STM32F429_USB_VCP/project.uvprojx`
     * Lo principal está en este fichero: [firmware/24-STM32F429_USB_VCP/User/main.c](https://github.com/ual-arm/mars-crimson/blob/master/firmware/24-STM32F429_USB_VCP/User/main.c)
+    * 
   
   * Frames: uC -> PC
   
